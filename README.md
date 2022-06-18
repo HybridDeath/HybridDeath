@@ -1,5 +1,5 @@
 # Hi, I’m @HybridDeath
-## I'm 18. I live in Poland. 🇵🇱
+## I'm 18. I live in Poland. 🥇
 - **I’m interested in**:
     - Anime `mainly ecchi, psychological, thrillers and school series, my taste is wide :D`
     - Translating music `S3RL, DM Dokuro`
