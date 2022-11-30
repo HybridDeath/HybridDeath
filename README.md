@@ -51,5 +51,4 @@
     
 - **Contact me**:
     - Discord: `HybridDeath#9494`
-    - My private Discord server: https://discord.gg/SDwRBWa7Xr
-    - Email: hyperek635@gmail.com
+    - My Discord server: https://discord.gg/TTvvvRh4aS
