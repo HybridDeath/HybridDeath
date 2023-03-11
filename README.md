@@ -1,27 +1,23 @@
 # Hi, I’m @HybridDeath
-## I'm 18, and I'm from Poland. 🥇
-- **I’m interested in**:
-    - My beloved team called **New Fireflies Prime**, made in 2019 `MTA (2019) / Multi-branded (today)`
+## I'm 19, and I'm from Poland. 🥇
+- **My hobbies**:
+    - My beloved team called **New Fireflies Prime**, made in 2019 `MTA (2019 - May 2022) / Terraria and YouTube (today)`
     - Anime `mainly ecchi, psychological, thrillers and school series, my taste is wide :D`
-    - Translating music `S3RL, DM Dokuro`
-    - Translating whole subtitles `mainly for my own videos`
-    - Translating / making game content `Mindustry / Terraria`
-    - Spriting `Terraria`
-    - Coding `Terraria`
+    - Translating music `Musixmatch`
+    - Translating whole subtitles `for myself`
+    - Translating game content `Mindustry`
+    - Creating content `Lost Diaries`
+       - Spriting
+       - Coding
 - **I’m currently learning**:
-    - C# (myself) / C++ (university)
-    - nothing else to put here by now
+    - C# (myself)
+    - massage techniques (special labs)
 - **I’m looking to collaborate on**:
-    - Anything that may interest me! Just DM!
-    - but besides that purely on modding in games
-- **Games I played and used git for**:
-    - MTA: San Andreas `Lua`
-    - Terraria `C#`
-    - Mindustry `simple files`
+    - my Lost Diaries mod `music specifically`
 - **Full history**:
     - MTA: San Andreas (almost 20 servers):
-      - beginner helper `2016 - 2017`
-      - classic admin (watching players and helping in minor stuff) `2017`
+      - helper `2016 - 2017`
+      - classic admin `2017`
       - beginner scripter `2017`
       - first touch with SQL and databases `2017`
       - first accident where whole server crashed and I was kicked from staff `2017`
@@ -58,14 +54,14 @@
       - I become Multidimension Mod Coder and Spriter (2021 - today)
       - Somewhere here Fireflies become "New Fireflies Prime" because of what one of admins have did...
       - Also somewhere here I'm starting to be interested in making videos and music.
-      - I start making Springy Multidimension Add-on which gets rejected for being out of context and is not related with the mod's storyline and basically stuff that I agreed to be true (I cannot spoil)
+      - I start making Multidimension Add-on which gets rejected for being out of context and is not related with the mod's storyline and basically stuff that I agreed to be true (can't spoil)
       - My journey through modding Terraria becomes far more fun than going thru MTA (2022)
       - I start making a new mod while still helping Multidimension Mod grow (today)
 
       **THIS PART IS STILL EXTENDING**
 
-      **This game taught me that coding isn't hard unless you have API, and also I have learned what OOP is.**
-    
+      **This game taught me that coding isn't hard.**
+
 - **Contact me**:
     - Discord: `HybridDeath#9494`
     - My Discord server: https://discord.gg/TTvvvRh4aS
