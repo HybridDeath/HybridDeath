@@ -57,6 +57,11 @@
 
       **I have completed this part of my journey with Terraria, now moving on to LOVE, since it goes back to roots of my coding expierience with MTA**
 
+    - Love2D `around 5 different smaller projects`:
+      - first touch with custom-made libraries `2023 - 2024`
+      - first touch with meshes and quads `2024`
+      - first touch with resolution scaling
+
 - **Contact**:
     - Discord: `HybridDeath#9494`
     - My Discord server: https://discord.gg/TTvvvRh4aS
